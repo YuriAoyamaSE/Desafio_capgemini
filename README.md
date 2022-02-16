@@ -6,7 +6,7 @@
 <p><strong>Passos para rodar as aplicações:</strong></p>
 <ul>
 <li>O Primeiro passo é ter Python no computador. Caso não possua Python, será necessário instalar de acordo com o sistema operacional. Link: https://www.python.org/downloads/. Preferencialmente a versão 3.9.10, que é mais estável. É indicado ainda marcar a opção “PATH” no início da instalação.</li>
-<li>Baixe os arquivos, na opção “Code -> Download Zip”. Extraia os arquivos para um local de fácil acesso.</li>
+<li>Baixe os arquivos, na opção “Code -> Download Zip” (Botão verde no menu do repositório do github). Extraia os arquivos para um local de fácil acesso.</li>
 <li>Abra o Prompt de Comando (cmd) e acesse a pasta dos arquivos. Por exemplo, no Windows e mantendo na pasta padrão de downloads, basta usar o comando no cmd: 
 cd Downloads\Desafio_capgemini-main</li>
 <li>Agora basta executar o arquivo desejado, apenas escrevendo seu nome e extensão: questao01; questao02; questao03.</li>
