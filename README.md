@@ -5,7 +5,7 @@
 <p align="justify">Um sistema de <em>loop</em> usando uma variável "continuar" e uma função <em>while</em> foi criado nas três aplicações para que o teste possa ser repetido até que o usuário deseje encerrar.</p>
 <p><strong>Passos para rodar as aplicações:</strong></p>
 <ul>
-<li>O Primeiro passo é ter Python no computador. Caso não possua Python, será necessário instalar de acordo com o sistema operacional. Link: <https://www.python.org/downloads/>. Preferencialmente a versão 3.9.10, que é mais estável. É indicado ainda marcar a opção “PATH” no início da instalação.</li>
+<li>O Primeiro passo é ter Python no computador. Caso não possua Python, será necessário instalar de acordo com o sistema operacional. Link: https://www.python.org/downloads/. Preferencialmente a versão 3.9.10, que é mais estável. É indicado ainda marcar a opção “PATH” no início da instalação.</li>
 <li>Baixe os arquivos, na opção “Code -> Download Zip”. Extraia os arquivos para um local de fácil acesso.</li>
 <li>Abra o Prompt de Comando (cmd) e acesse a pasta dos arquivos. Por exemplo, no Windows e mantendo na pasta padrão de downloads, basta usar o comando no cmd: 
 cd Downloads\Desafio_capgemini-main</li>
